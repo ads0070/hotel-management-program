@@ -1,4 +1,6 @@
-# hotel-management-program
+# 2020년도 2학년 2학기 객체지향프로그래밍II
+<h2 align=left>2분반 8조 호텔관리시스템 프로젝트</h2>
+
 
 DB 파일을 C://로 이동
 DB/ADDRESS 파일 안에는 전국 도로명 주소 API를 다운로드해서 저장 (용량 문제로 업로드 불가)
